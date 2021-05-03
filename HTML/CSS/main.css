@@ -21,7 +21,7 @@ body
 {
 	color: rgb(250, 250, 250);
 	font-family: CD;
-	font-size: 70px;
+	font-size: 4vw;
 	font-weight: bold;
 	text-align: center;
 	top: 0;
@@ -40,7 +40,7 @@ body
 {
 	font-family: CD;
 	color: rgb(250, 250, 250);
-	font-size: 50px;
+	font-size: 2.8vw;
 	text-align: center;
 	margin: 10px;
 	font-weight: bold;
@@ -49,7 +49,7 @@ body
 {
 	font-family: CD;
 	color: rgb(250, 250, 250);
-	font-size: 25px;
+	font-size: 1.5vw;
 	text-align: center;
 	margin: 10px;
 }
@@ -57,7 +57,7 @@ body
 {
 	font-family: CD;
 	color: rgb(250, 250, 250);
-	font-size: 25px;
+	font-size: 1vw;
 	margin: 10px;
 }
 #Btn
@@ -69,7 +69,7 @@ body
 	height: 10%;
 	font-family: CD;
 	color: rgb(250, 250, 250);
-	font-size: 40px;
+	font-size: 2vw;
 	margin: 10px;
 	background-color: rgb(100, 200, 100);
 	transition: width 250ms, background-color 500ms, color 200ms, transform 200ms;
