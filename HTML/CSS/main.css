@@ -25,6 +25,35 @@
 	filter: brightness(1);
 }
 
+#btn
+{
+	font-family: CD;
+	color: rgb(220, 220, 220);
+	background-color: rgb(50, 75, 50);
+	font-size: 20px;
+	border: none;
+	width: 12vw;
+	height: 4vw;
+	border-radius: 50px;
+	transition: background-color .1s, font-size .5s, width .5s, height .5s, color .1s; 
+}
+
+#btn:hover
+{
+	background-color: rgb(100, 150, 100);
+	font-size: 30px;
+	width: 20vw;
+	height: 4vw;
+}
+#btn:active
+{
+	background-color: rgb(230, 230, 230);
+	font-size: 30px;
+	width: 20vw;
+	height: 4vw;
+	color: black;
+}
+
 @font-face
 {
 	font-family: "CD";
